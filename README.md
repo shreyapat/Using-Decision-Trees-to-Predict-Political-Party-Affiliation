@@ -1,1 +1,1 @@
-# Using-Decision-Trees-to-Predict-Political-Party-Affiliation
+# Using Decision Trees to Predict Political Party Affiliation
